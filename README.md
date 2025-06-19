@@ -11,8 +11,8 @@ You control Padman to collect dots, avoid ghosts, and survive through levels.
 
 > *(Optional: Add a GIF or screenshot here)*
 
-![screenshot](![padman](https://github.com/user-attachments/assets/f2d42752-9dc0-497e-a2ea-cda8a961082c)
-)
+!![padman](https://github.com/user-attachments/assets/e68f1c9a-4eb5-422e-be4c-af839de26245)
+
 
 ---
 
