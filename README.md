@@ -29,8 +29,3 @@ You control Padman to collect dots, avoid ghosts, and survive through levels.
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/AnujS394/padman-gmae.git
-cd padman-gmae
